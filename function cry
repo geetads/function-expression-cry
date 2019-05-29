@@ -1,0 +1,8 @@
+var cry=function sry(){
+    
+    return "boohoo!"
+        
+    };
+    
+
+console.log(cry());
